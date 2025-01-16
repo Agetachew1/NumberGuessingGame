@@ -1,7 +1,5 @@
 ## Number Guessing Game
-A basic number guessing game in java that let you guess a number between 1 to 100 and gives you a feed back if it's high or low. 
-This project is a learning journey from simple "Hello World" project to more interactive and functional programming. 
-
+A basic number guessing game in Java that lets you guess a number between 1 and 100 and gives you feedback if it's too high or too low. This project is part of a learning journey from a simple 'Hello World' project to more interactive and functional programming.
 ## Features
 
 - Random number generation between 1 and 100
